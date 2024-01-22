@@ -1,0 +1,2 @@
+../Core/Src/pwm2.cpp:16:6:void setup()	8	static
+../Core/Src/pwm2.cpp:21:6:void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef*)	24	static
